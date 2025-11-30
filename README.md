@@ -1,6 +1,14 @@
 # Electric-Vehicle
 Arjo Sanbui's Electric Vehicle for 2025-2026 Science Olympiad Division C
 
+## Circuit Diagram:
+<img width="869" height="620" alt="image" src="https://github.com/user-attachments/assets/a7fac1d9-9539-4d40-969c-ecb9c5551947" />
+
+## Steering Mechanism
+<img width="470" height="640" alt="image" src="https://github.com/user-attachments/assets/0a26cee7-0ebb-4bc8-ba1a-3899eafc306b" />
+<br>
+<img width="457" height="700" alt="image" src="https://github.com/user-attachments/assets/559d6f48-72e4-4b76-a8c6-2194f920d487" />
+
 ## 3D Renditions:
 V1 (Prototype)
 <br>
@@ -9,9 +17,6 @@ V1 (Prototype)
 V2 (Final Version)
 <br>
 <img width="495" height="242" alt="image" src="https://github.com/user-attachments/assets/6d627563-591a-45e8-9c29-7263001b97ee" />
-
-## Circuit Diagram:
-<img width="869" height="620" alt="image" src="https://github.com/user-attachments/assets/a7fac1d9-9539-4d40-969c-ecb9c5551947" />
 
 ## Component List:
 
